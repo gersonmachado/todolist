@@ -1,5 +1,5 @@
 Olá!
-Esse projeto é para finalidade de estudos com o objetivo de criar uma página web de lista de tarefas.
+Projeto com finalidade de estudos. O objetivo é de criar uma página web de lista de tarefas.
 
 Linguagens utilizadas:
 HTML
